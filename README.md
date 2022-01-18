@@ -1,5 +1,5 @@
 # Vue 3.0.0-beta Starter Kit
-TTTTEST
+FOOBAR
 ### Links
 
 - [GitHub (https://github.com/vuejs/vue-next)](https://github.com/vuejs/vue-next)
