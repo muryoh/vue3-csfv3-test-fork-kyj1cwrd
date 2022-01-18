@@ -1,2 +1,5 @@
-# vue3-csfv3-test-fork-kyj1cwrd
-Created with WebComponents.dev
+# Vue 3.0.0-beta Starter Kit
+
+### Links
+
+- [GitHub (https://github.com/vuejs/vue-next)](https://github.com/vuejs/vue-next)

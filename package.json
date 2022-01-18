@@ -1,0 +1,11 @@
+{
+  "name": "@wcd/muryoh.vue3-csfv3-test-fork-kyj1cwrd",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve gtQ4TegyydygaTZseupd --open"
+  },
+  "devDependencies": {
+    "@storybook/vue3": "^6.3.0",
+    "vue": "next"
+  }
+}
